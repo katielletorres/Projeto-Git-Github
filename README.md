@@ -29,6 +29,5 @@ O serviço na internet o nome dele é GitHub, mas o que você faz dentro do GitH
 
 ### O que você faz dentro do GitHub: Git
 
-# Conhecendo os conceitos básicos do Git
-
-# 
+## Prof. Rafael Marinho/ Aulas Rcode
+[http://rafahmarinho.github.io/]
